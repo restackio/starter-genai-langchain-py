@@ -1,0 +1,6 @@
+Flask==3.0.3
+gunicorn==22.0.0
+langchain==0.2.6
+langchain-openai==0.1.10
+openai==1.35.3
+python-dotenv==1.0.1
